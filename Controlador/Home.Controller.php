@@ -4,6 +4,10 @@
    */
   class Home
   {
+     function __construct()
+     {
+      //code...
+	 }
    public function Inicio()
     {
         $smart=new Smarty();
